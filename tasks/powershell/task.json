@@ -147,7 +147,7 @@
     }
   ],
   "execution": {
-    "Node": {
+    "Node10": {
       "target": "execute-cli.js",
       "argumentFormat": ""
     }
